@@ -45,4 +45,46 @@ body{
 
 }
 
+.discord_card{
+    font-family: "Sigmar", sans-serif;
+    max-width: 450px;
+    color: white;
+    background-color: rgba(88, 83, 114, 0.914);
+    line-height: 1;
+    border: none;
+    border-radius: 20px;
+    padding: 50px;
+    margin-top: 3rem;
+    margin-left: 1rem;
+    padding-left: 2rem;
+    padding-right: 1rem;
+    
+    
+} 
+
+#text_section_two{
+    font-family: "DM Sans", sans-serif;
+    margin-top: 2rem;
+    
+
+
+}
+    
+video{
+    width: 85%;
+    height: 100%;
+    margin-top: 1rem;
+    border-radius: 20px;
+}    
+
+  
+    
+
+
+
+
+
+
+
+
 
