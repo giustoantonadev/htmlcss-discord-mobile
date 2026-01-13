@@ -6,8 +6,22 @@
 
 body{
     width: 512;
+    background-color: oklab(25.856% 0.00499 -0.13293 / 0.971);
 }
 
+#sect_with_buttons{
+    font-family: "Sigmar", sans-serif;
+    text-align: center;
+    max-width: 500px;
+    color: white;
+    margin-top: 100px;
+    line-height: 1;
+}
+
+#text_section{
+    margin-top: 2rem;
+    text-align: center;
+}
 
 
 
